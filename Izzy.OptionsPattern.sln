@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Izzy.OptionsPattern.DataAnn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Izzy.OptionsPattern.WebApp1", "Izzy.OptionsPattern.WebApp1\Izzy.OptionsPattern.WebApp1.csproj", "{A3988FC1-3A33-4F0D-A7F9-7D704E8DD35D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Izzy.OptionsPattern.WebApp2", "Izzy.OptionsPattern.WebApp2\Izzy.OptionsPattern.WebApp2.csproj", "{348245F6-E445-457E-BC6C-0F05D32D0023}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{A3988FC1-3A33-4F0D-A7F9-7D704E8DD35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3988FC1-3A33-4F0D-A7F9-7D704E8DD35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3988FC1-3A33-4F0D-A7F9-7D704E8DD35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348245F6-E445-457E-BC6C-0F05D32D0023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348245F6-E445-457E-BC6C-0F05D32D0023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348245F6-E445-457E-BC6C-0F05D32D0023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348245F6-E445-457E-BC6C-0F05D32D0023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
